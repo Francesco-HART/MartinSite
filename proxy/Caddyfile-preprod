@@ -1,5 +1,4 @@
-lejeunedeveloppeur.fr {
+powerfulhommeinfluence.fr {
     reverse_proxy  client:3000
-    reverse_proxy /api/* api:5000
   }         
 
