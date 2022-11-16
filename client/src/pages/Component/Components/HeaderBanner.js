@@ -35,14 +35,14 @@ const HeaderBanner = () => {
               >
                 Martin Parker
               </h1>
-              <p
+              <h5
                 data-aos="fade-up"
                 data-aos-duration="1200"
-                data-aos-delay="200"
+                data-aos-delay="100"
               >
                 Comment je suis passé de No Body...
                 <br />A l'homme que je suis aujourd'hui.
-              </p>
+              </h5>
               <button
                 data-aos="fade-up"
                 data-aos-duration="1200"
